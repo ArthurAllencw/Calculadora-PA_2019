@@ -1,0 +1,54 @@
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csprojResolveAssemblyReference.cache
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.Cache
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
+C:\Users\Arthur Sampaio\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\Aluno\Desktop\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\obj\Debug\ProjetoCalc.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+C:\Users\Aluno\Downloads\AULAPA2019-master\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.Cache
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csprojResolveAssemblyReference.cache
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+E:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.Cache
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csprojResolveAssemblyReference.cache
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+F:\Programação e Algoritmos C#\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.Cache
